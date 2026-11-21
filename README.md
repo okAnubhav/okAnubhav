@@ -21,8 +21,7 @@
 ```yaml
 name      : Anubhav
 role      : Plugin & Backend Developer
-focus     : Plugin Development · Game Hosting · Networking
-location  : India 🇮🇳
+focus     : Plugin Development ·  Hosting · Networking · AI & ML
 status    : Open for development enquiries & collaborations
 ```
 
